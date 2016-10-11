@@ -1,0 +1,27 @@
+﻿Build started 9/9/2014 6:13:50 PM.
+     1>Project "F:\project\trymesh\trymesh\trymesh.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\trymesh.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\project\trymesh\Debug\trymesh.exe" /NOLOGO PhysX3_x64.lib PhysX3Common_x64.lib d3dx10.lib d3d10.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\trymesh.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\project\trymesh\Debug\trymesh.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\project\trymesh\Debug\trymesh.lib" /MACHINE:X86 Debug\CCube.obj
+         Debug\CFire.obj
+         Debug\CFrame.obj
+         Debug\CFramework.obj
+         Debug\CGraphics.obj
+         Debug\CLightMat.obj
+         Debug\CMesh.obj
+         Debug\CRaw.obj
+         Debug\CUtility.obj
+         trymesh.vcxproj -> F:\project\trymesh\Debug\trymesh.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\project\trymesh\Debug\trymesh.exe;#1" /manifest Debug\trymesh.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\trymesh.unsuccessfulbuild".
+         Touching "Debug\trymesh.lastbuildstate".
+     1>Done Building Project "F:\project\trymesh\trymesh\trymesh.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52
